@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @RRemoaldo
-- 👀 I’m interested in Coding, maybe one day I`ll be a game developer.
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on learning new skills
+👋 Hi, I’m @RRemoaldo
