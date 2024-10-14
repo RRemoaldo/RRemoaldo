@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C, html, css and react**
 
-- 💬 Ask me about **warhammer and programming objectivesf**
+- 💬 Ask me about **Warhammer, IT, Tech**
 
 - 📫 How to reach me **remoaldorafael@gmail.com**
 
