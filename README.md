@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **42 Common Core**
 
-- 🌱 I’m currently learning **C programming**
+- 🌱 I’m currently learning **C, html, css and react**
 
 - 💬 Ask me about **warhammer and programming objectivesf**
 
